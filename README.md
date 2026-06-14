@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Fabiana Alves Ferreira 👋
 
-<!--
-**FabianaAFerreira/FabianaAFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cientista de Dados em formação na Univesp (3º ano) e Estagiária de Inteligência Artificial na FlyRank AI. Apaixonada por transformar dados brutos em soluções inteligentes e automatizadas.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL
+- **Bibliotecas de Dados:** Pandas, NumPy, Matplotlib, Seaborn
+- **Áreas de Foco:** Processamento de Linguagem Natural (NLP), IA Generativa, Análise Exploratória de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Meus Principais Projetos
+*(Em breve, os links dos seus 3 projetos principais filtrados aqui)*
+
+---
+📬 **Como me encontrar:** [Meu Perfil no LinkedIn](https://linkedin.com)
